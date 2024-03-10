@@ -3,7 +3,9 @@ A simple image processing project, made using OpenCV
 
 # Make sure to install the following:
  pip install opencv-python 
+ 
  pip install opencv-python-headless
+ 
  pip install cvzone 
 
 # To Run :
