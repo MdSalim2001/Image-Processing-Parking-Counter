@@ -8,6 +8,7 @@ A simple image processing project, made using OpenCV
 
 # To Run :
   First, run the SpacePicker.py to select the parking spaces manually with the left click and remove them with the right click.
+  
   Run  main.py
  
  
